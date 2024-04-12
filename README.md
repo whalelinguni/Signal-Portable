@@ -4,12 +4,7 @@ This script automates the process of updating the Signal Portable application to
 
 ## Features
 
-- Checks for administrator privileges and elevates if necessary.
-- Downloads the latest version of Signal Portable.
-- Extracts and updates the Signal Portable application.
-- Checks for running instances of Signal and Signal Portable and closes them if necessary.
-- Backs up the current installation before updating.
-- Cleans up temporary files after the update process.
+- Updates Signal Portable pulling directly from signal servers.
 
 ## Usage
 
