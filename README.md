@@ -6,6 +6,10 @@ This script automates the process of updating the Signal Portable application to
 
 - Updates Signal Portable pulling directly from signal servers.
 
+## Not Features
+  - Should really change the dir structure to allow update script to reside in portable apps installer. As anything in an apps root dir will not be included.
+  - Did not want to bundle update script with signal
+
 ## Usage
 
 1. Run the script in a PowerShell environment.
