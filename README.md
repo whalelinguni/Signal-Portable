@@ -24,6 +24,12 @@ This script automates the process of updating the Signal Portable application to
 2. Ensure that 7zip is placed in the same directory as the script.
 3. Run the script in a PowerShell environment.
 
+## Known Issues
+
+  - Dishssues 100%
+  - May not work after any major release.
+  - Probably bugs all over
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
