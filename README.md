@@ -43,3 +43,5 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 --I didn't generate this with chatgpt because lazy.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhalelinguni%2FSignal-Portable&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=shrimps&edge_flat=false)](https://hits.seeyoufarm.com)
