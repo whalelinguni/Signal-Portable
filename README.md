@@ -1,5 +1,10 @@
 # Signal Portable Updater
 
+# NOTE: 10-... what is it the 2nd? 1st? I don't even know. October someting first week 2024
+## This script is garbage. Leaving it up for refrence reasons. I am writing a much better more universal packager/launcher to deal with annoying programs like signal. 
+
+
+
 This script automates the process of updating the Signal Portable application to the latest version.
 
 ## Features
