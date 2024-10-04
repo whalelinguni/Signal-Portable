@@ -5,7 +5,7 @@
 
 
 
-This script automates the process of updating the Signal Portable application to the latest version.
+~~This script automates the process of updating the Signal Portable application to the latest version.~~ while it does do it. it does it very badly. 
 
 ## Features
 
