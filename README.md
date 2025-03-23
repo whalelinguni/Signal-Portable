@@ -1,3 +1,7 @@
+### Do not use this version. Its sucks. Doesn't work.
+## Much better with updating here: https://github.com/whalelinguni/SignalPortable
+
+
 # ~~Signal Portable Updater~~
 
 # NOTE: 10-... what is it the 2nd? 1st? I don't even know. October someting first week 2024
